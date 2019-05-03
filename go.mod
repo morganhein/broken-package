@@ -1,3 +1,3 @@
-module github.com/morganhein/broken-project
+module github.com/morganhein/broken-package
 
 go 1.12
